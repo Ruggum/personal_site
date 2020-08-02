@@ -1,0 +1,19 @@
+body {
+  background-color: #1b262c;
+  font: 15px Arial, sans-serif;
+  color: #bbe1fa;
+}
+hr {
+  border-color: #3282b8;
+  border-style: none;
+  border-top-style: dashed;
+  border-width: 3px;
+  width: 5%;
+}
+h1 {
+  color: #0f4c75;
+  text-shadow: 2px 1px #3282b8;
+}
+h3 {
+  color: #3282b8;
+}
